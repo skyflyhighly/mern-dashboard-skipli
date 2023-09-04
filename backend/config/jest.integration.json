@@ -1,0 +1,7 @@
+{
+  "rootDir": "../",
+  "testRegex": ".*\\.(int-test|int-spec)\\.js$",
+  "moduleFileExtensions": ["js"],
+  "testEnvironment": "node",
+  "maxWorkers": 1
+}
